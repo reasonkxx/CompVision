@@ -1,0 +1,12 @@
+names:
+- person
+nc: 1
+roboflow:
+  license: Private
+  project: people-detection-o4rdr
+  url: https://universe.roboflow.com/leo-ueno/people-detection-o4rdr/dataset/8
+  version: 8
+  workspace: leo-ueno
+test: D:/university/Vlad/training/People-Detection-8/People-Detection-8/test
+train: D:/university/Vlad/training/People-Detection-8/People-Detection-8/train
+val: D:/university/Vlad/training/People-Detection-8/People-Detection-8/valid
